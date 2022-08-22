@@ -1,0 +1,21 @@
+B1 {
+    float: left;
+}
+B2 {
+    float: right;
+}
+
+.button1 {
+    background-color: #FF8C00;
+    padding: 12px 28px;
+    font-size: 16px;
+    border-radius: 2px;
+    width: 100px;
+}
+ul.hr li {
+    display: inline;
+    margin-left: 80px;
+    padding: 3px;
+    text-align:right;
+}
+
